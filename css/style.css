@@ -2980,7 +2980,7 @@ img {
   margin-bottom: 30px;
 }
 .ts-sponsors .sponsors-logo img {
-  filter: grayscale(100%);
+/*   filter: grayscale(100%); */
 }
 .ts-sponsors .sponsors-logo:hover img {
   filter: none;
