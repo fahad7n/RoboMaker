@@ -512,7 +512,7 @@ img {
 .banner-title {
   font-size: 70px;
   color: #fff;
-  line-height: 74px;
+  line-height: 61px;
   letter-spacing: -2.1px;
   font-weight: 700;
 }
@@ -671,7 +671,7 @@ img {
       header area
 ===========================*/
 .header .navbar {
-  padding: 10px 0 5px;
+  padding: 19px 0 24px;
 }
 .header .navbar-brand {
   padding: 0;
@@ -833,7 +833,7 @@ img {
 }
 
 .hero-content-wrapper {
-  width: 64%;
+  width: 50%;
   background-color: rgb(55 56 94 / 95%);
   padding-top: 200px;
 }
@@ -914,7 +914,7 @@ img {
   left: 0;
 }
 .hero-content-wrapper .banner-info-meta {
-  padding-bottom: 20px;
+  padding-bottom: 200px;
 }
 .hero-content-wrapper .banner-info-meta li {
   display: inline-block;
@@ -2980,7 +2980,7 @@ img {
   margin-bottom: 30px;
 }
 .ts-sponsors .sponsors-logo img {
-/*   filter: grayscale(100%); */
+  /* filter: grayscale(100%); */
 }
 .ts-sponsors .sponsors-logo:hover img {
   filter: none;
