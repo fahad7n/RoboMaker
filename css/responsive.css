@@ -526,6 +526,8 @@ section {
     padding-top: 60px;
   }
 }
+
+
 /*==========================
 small device /mobile sm and large
 ===========================*/
@@ -567,8 +569,8 @@ small device /mobile sm and large
   }
 
   .banner-title {
-    font-size: 36px;
-    line-height: 38px;
+    font-size: 45px;
+    line-height: 52px;
   }
 
   .section-heading {
@@ -632,7 +634,7 @@ small device /mobile sm and large
     margin-left: 0;
   }
   .hero-content-wrapper .banner-info-meta {
-    padding-bottom: 40px;
+    padding-bottom: 79px;
   }
   .hero-content-wrapper .banner-info-meta li {
     margin-right: 0;
